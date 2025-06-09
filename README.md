@@ -1,8 +1,3 @@
-Here's a complete and clean **README.md** file you can use for your GitHub repository:
-
----
-
-````markdown
 # 🚗 Real-Time Vehicle Detection and Counting using OpenCV
 
 This project is a Python-based computer vision application that detects and counts vehicles from a video file using OpenCV and background subtraction techniques.
