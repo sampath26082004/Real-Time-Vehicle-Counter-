@@ -38,7 +38,7 @@ This project is a Python-based computer vision application that detects and coun
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/vehicle-detection-opencv.git](https://github.com/sampath26082004/Real-Time-Vehicle-Counter-.git)
+   git clone(https://github.com/sampath26082004/Real-Time-Vehicle-Counter-.git)
    cd vehicle-detection-opencv
    ```
 
